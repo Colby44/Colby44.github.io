@@ -13,4 +13,4 @@ Say approximately how many hours you have spent completing the assignment:
 I spent roughly 4 hours completing this assignment.
 
 Be written in either text format (README.txt) or in Markdown (README.md). No other formats will be accepted. Please use all capital letters for README
-Done. 
+Finished.
